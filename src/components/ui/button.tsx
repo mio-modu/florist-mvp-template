@@ -1,0 +1,1 @@
+export function Button({ children }: { children: React.ReactNode }) { return <button className="bg-pink-300 hover:bg-pink-400 text-white py-2 px-4 rounded-full w-full">{children}</button>; }
