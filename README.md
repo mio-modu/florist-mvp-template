@@ -1,2 +1,10 @@
-# FRUITQUE
-FRUITIQUE는 고급 과일 브랜드 웹사이트입니다. React + Vite + Tailwind 기반으로 만들어졌습니다.
+# FRUITIQUE
+
+FRUITIQUE는 고급 과일 브랜드 웹사이트입니다. React + Vite + Tailwind 기반으로 만들어졌으며, 반응형 디자인을 적용하여 모바일과 데스크톱 모두에서 최적의 사용자 경험을 제공합니다.
+
+## 주요 기능
+- 반응형 디자인
+- 제품 갤러리
+- 예약 시스템
+- 문의하기
+- 고객 후기
